@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD4", "TDD4\TDD4.csproj", "{3D4CE9AE-783E-42E8-956C-BD761DF3D7FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeLab", "PrimeLab\PrimeLab.csproj", "{426CAE54-C3B5-4881-944C-3FE9EF81187D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D4CE9AE-783E-42E8-956C-BD761DF3D7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4CE9AE-783E-42E8-956C-BD761DF3D7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4CE9AE-783E-42E8-956C-BD761DF3D7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4CE9AE-783E-42E8-956C-BD761DF3D7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426CAE54-C3B5-4881-944C-3FE9EF81187D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426CAE54-C3B5-4881-944C-3FE9EF81187D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426CAE54-C3B5-4881-944C-3FE9EF81187D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426CAE54-C3B5-4881-944C-3FE9EF81187D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F09FA54C-EF6B-4F39-8030-581196ACF043}
+	EndGlobalSection
+EndGlobal

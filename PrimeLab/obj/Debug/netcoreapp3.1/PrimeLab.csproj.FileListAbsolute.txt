@@ -1,0 +1,11 @@
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\TDD4\PrimeLab\bin\Debug\netcoreapp3.1\PrimeLab.exe
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\TDD4\PrimeLab\bin\Debug\netcoreapp3.1\PrimeLab.deps.json
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\TDD4\PrimeLab\bin\Debug\netcoreapp3.1\PrimeLab.runtimeconfig.json
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\TDD4\PrimeLab\bin\Debug\netcoreapp3.1\PrimeLab.runtimeconfig.dev.json
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\TDD4\PrimeLab\bin\Debug\netcoreapp3.1\PrimeLab.dll
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\TDD4\PrimeLab\bin\Debug\netcoreapp3.1\PrimeLab.pdb
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\TDD4\PrimeLab\obj\Debug\netcoreapp3.1\PrimeLab.AssemblyInfoInputs.cache
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\TDD4\PrimeLab\obj\Debug\netcoreapp3.1\PrimeLab.AssemblyInfo.cs
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\TDD4\PrimeLab\obj\Debug\netcoreapp3.1\PrimeLab.dll
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\TDD4\PrimeLab\obj\Debug\netcoreapp3.1\PrimeLab.pdb
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\TDD4\PrimeLab\obj\Debug\netcoreapp3.1\PrimeLab.csprojAssemblyReference.cache
